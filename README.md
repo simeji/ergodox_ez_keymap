@@ -3,4 +3,4 @@ My ErgodoxEZ keymap
 
 ## layouts (ORYX)
 
-https://configure.ergodox-ez.com/ergodox-ez/layouts/rPeQj/latest/0
+![Layout](https://github.com/simeji/ergodox_ez_keymap/blob/master/ergodox_ez_simeji_layout_macos.pdf)
